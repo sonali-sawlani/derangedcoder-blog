@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">gatsby-simple-blog</h1>
 
 [![Build Status](https://travis-ci.org/thundermiracle/gatsby-simple-blog.svg)](https://travis-ci.org/thundermiracle/gatsby-simple-blog)
@@ -98,3 +99,7 @@ All configurable values are here: __./config/index.js__
 ## License
 
 This project is licensed under the terms of the [MIT license](/LICENSE).
+=======
+# derangedcoder-blog
+Blogging site build by gatsby 
+>>>>>>> c47d009453e2d8fe4dbfc7802969507a8af437cc

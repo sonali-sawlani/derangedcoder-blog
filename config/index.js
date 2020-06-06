@@ -1,13 +1,13 @@
 const site = {
   pathPrefix: '/gatsby-simple-blog',
-  title: 'Gatsby Starter Blog',
-  author: 'Kyle Mathews',
-  description: 'A starter blog demonstrating what Gatsby can do.',
-  siteUrl: 'https://gatsby-starter-blog-demo.netlify.com/',
-  twitter: 'kylemathews',
-  github: 'thundermiracle',
-  medium: 'thundermiracle',
-  facebook: 'thundermiracle',
+  title: 'Deranged Coder Blog',
+  author: 'Sonali',
+  description: 'Debugging my code and mindset.',
+  siteUrl: 'https://deranged-coder-blog.netlify.app',
+  twitter: 'deranged_coder',
+  github: 'sonali-20',
+  instagram: 'deranged_coder',
+  linkedin: 'Sonali Sawlani',
   disqusShortName: 'gatsby-simple-blog',
   googleTrackingId: '',
   lang: 'en',
@@ -16,7 +16,6 @@ const site = {
 
 const supportedLanguages = {
   en: 'English',
-  'zh-hans': '简体中文',
 };
 
 module.exports = {
