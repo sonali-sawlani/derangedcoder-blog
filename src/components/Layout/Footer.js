@@ -14,11 +14,11 @@ function Footer() {
       <p>
         Made of{' '}
         <a
-          href="https://github.com/thundermiracle/gatsby-simple-blog"
+          href="https://github.com/sonali-20/derangedcoder-blog"
           target="_blank"
           rel="noopener noreferrer"
         >
-          gatsby-simple-blog
+          e-blog
         </a>
       </p>
     </footer>

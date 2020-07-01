@@ -1,5 +1,5 @@
 const site = {
-  pathPrefix: '/gatsby-simple-blog',
+  pathPrefix: '/deranged-coder-blog',
   title: 'Deranged Coder Blog',
   author: 'Sonali',
   description: 'Debugging my code and mindset.',
@@ -7,7 +7,7 @@ const site = {
   twitter: 'deranged_coder',
   github: 'sonali-20',
   instagram: 'deranged_coder',
-  linkedin: 'Sonali Sawlani',
+  linkedin: 'sonalisawlani',
   disqusShortName: 'gatsby-simple-blog',
   googleTrackingId: '',
   lang: 'en',

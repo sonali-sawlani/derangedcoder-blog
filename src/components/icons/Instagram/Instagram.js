@@ -6,28 +6,28 @@ import dark from './dark.png';
 import light from './light.png';
 import withThemeFlag from '../../../utils/withThemeFlag';
 
-function Medium({ username, size, isLightTheme }) {
+function Instagram({ username, size, isLightTheme }) {
   if (!username) return null;
 
   return (
     <RotateLinkImg
-      href={`https://medium.com/@${username}`}
+      href={`https://instagram.com/${username}`}
       src={isLightTheme ? dark : light}
       size={size}
     />
   );
 }
 
-Medium.propTypes = {
+Instagram.propTypes = {
   username: PropTypes.string,
   size: PropTypes.number,
   isLightTheme: PropTypes.bool,
 };
 
-Medium.defaultProps = {
+Instagram.defaultProps = {
   username: null,
   size: 24,
   isLightTheme: true,
 };
 
-export default withThemeFlag(Medium);
+export default withThemeFlag(Instagram);

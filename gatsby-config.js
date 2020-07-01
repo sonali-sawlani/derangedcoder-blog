@@ -7,8 +7,8 @@ const {
   siteUrl,
   twitter = '',
   github = '',
-  medium = '',
-  facebook = '',
+  instagram = '',
+  linkedin = '',
   disqusShortName = '',
   lang = 'en',
   googleTrackingId: trackingId,
@@ -25,8 +25,8 @@ module.exports = {
     social: {
       twitter,
       github,
-      medium,
-      facebook,
+      instagram,
+      linkedin,
     },
     disqusShortName,
     lang,
@@ -89,7 +89,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Deranged Coder Blogs`,
+        name: `Deranged Coder Blog`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
